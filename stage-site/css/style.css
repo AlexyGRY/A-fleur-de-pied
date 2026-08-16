@@ -120,16 +120,13 @@ nav a:focus-visible {
   display: inline-block;
 }
 .title-main,
-.title-sub {
+.title-sub,
+.highlight-line {
   color: rgba(255,255,255,0.97);
   font-weight: 700;
   text-transform: uppercase;
 }
-.highlight-line {
-  color: rgba(255,255,255,0.98);
-  font-weight: 800;
-  text-transform: lowercase;
-}
+
 .hero-name {
   font-size: 1.15rem;
   font-weight: 700;
